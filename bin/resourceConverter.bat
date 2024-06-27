@@ -1,0 +1,1 @@
+windres adminPrivileges.rc -o adminPrivileges.o
